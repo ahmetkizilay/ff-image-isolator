@@ -7,3 +7,6 @@ when user right-clicks on an image, the program starts searching for an image so
 
 ### how it does not work
 my initial attempt was to directly download the link by reading the image data, and creating a uri etc. however, i got stuck with the security exceptions that disallow cross-browser downloads through javascript. so, i left it there, and compromised for a second step instead of writing a server application.
+
+### chrome extension
+you can also find the google chrome version [here](http://github.com/artsince/image-isolator)
