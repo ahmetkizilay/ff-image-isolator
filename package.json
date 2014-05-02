@@ -1,0 +1,11 @@
+{
+    "name": "ff-image-isolator",
+    "title": "Image Isolator",
+    "id": "jid1-HRBmBu3WzsMdqw",
+    "description": "finds the image under your mouse and let's you isolate it",
+    "author": "Ahmet Kizilay",
+    "license": "MIT",
+    "version": "1.0",
+    "icon": "data/dl-48.png",
+    "homepage": "https://github.com/artsince"
+}
